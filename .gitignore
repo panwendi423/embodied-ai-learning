@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.vscode/
+.env
+*.log
+*.tmp
+
+# 训练产物
+checkpoints/
+logs/
+tensorboard/
